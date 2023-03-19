@@ -1,6 +1,8 @@
 # Click-the-Button
 Click the Button HTML5 game made for #gamedevjs . I want to highlight that the code I've written is not only shortest in your competition but also entertaining.
 
+Created by Joe Shenouda (www.shenouda.nl)
+
 # Game Repository
 
 This repository contains a simple click-based game developed using HTML, CSS, and JavaScript.
